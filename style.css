@@ -300,28 +300,9 @@ img {
   margin-bottom: 24px;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
   font-family: "Explorer";
-  animation-timing-function: ease;
-  animation-name: red;
-  animation-duration: 4s;
-  animation-delay: 1s;
-  animation-iteration-count: infinite;
-  animation-fill-mode: forwards;
+
 }
-@keyframes red {
-  0%{
-    color:white ;
-      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
-  }
-  50%{
-    color: #c21f1f;
-      text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.611);
-  }
-  100%{
-        color:white ;
-     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
-  }
-  
-}
+
 .hero-description {
   font-size: 15px;
   line-height: 1.8;
