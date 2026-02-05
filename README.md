@@ -1,6 +1,6 @@
 ﻿# kodex-challenge
 
-# 🎬 Pixar Animation Studios – Frontend Website Clone
+# 🎬 Pixar Animation Studios – Frontend Reimagine
 
 A visually rich, fully responsive frontend website inspired by Pixar Animation Studios, built using pure HTML and CSS with modern layouts and smooth UI interactions.
 
@@ -74,3 +74,4 @@ This is not an official Pixar website.
 
 Harshit Raghuwanshi
 Frontend Developer & UI Enthusiast
+
