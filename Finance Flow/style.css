@@ -75,6 +75,7 @@ header {
     display: flex;
     gap: 1rem;
     margin-bottom: 2rem;
+    flex-direction: column;
 }
 
 .search-bar {
